@@ -4,8 +4,7 @@
 Visualizar y comparar el costo de vida en diferentes regiones usando datos actualizados y fórmulas avanzadas.
 
 ## Capturas del Proyecto
-[Dashboard Costo de vida.png](https://github.com/romina-abud/proyecto_costo_de_vida_google_sheet/blob/055f10df5f59a6bf4e21b6ff5e72680bb92b6a7b/Dashboard%20Costo%20de%20vida.png)
-
+https://github.com/romina-abud/proyecto_costo_de_vida_google_sheet/blob/055f10df5f59a6bf4e21b6ff5e72680bb92b6a7b/Dashboard%20Costo%20de%20vida.png
 *Descripción: Gráficos interactivos y tablas resumen.*
 
 ## Acceso al Google Sheet
