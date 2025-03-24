@@ -11,10 +11,16 @@ Visualizar y comparar el costo de vida en diferentes regiones usando datos actua
 ## Acceso al Google Sheet
 🔗 https://docs.google.com/spreadsheets/d/1XZzHPnZjoPMX5vTvTiYgp31ZZDlzxyM3KolDqctvBLQ/edit?usp=sharing
 
-## Herramientas Utilizadas
+## 📌 Resultados Clave
+✅ Transporte, cuidado infantil y vivienda son las categorías de mayor impacto. 🚗👶🏡
+✅ Argentina, Brasil y Chile presentan los costos más altos en la región. 💰
+✅ Colombia, México y Perú se destacan como opciones más accesibles. 💸
+✅ Perú emerge como la alternativa más conveniente.
+
+## 🖥️ Herramientas Utilizadas
 - Google Sheets (fórmulas, tablas dinámicas, gráficos).
 
-## Cómo Usarlo
+## 🛠️ Cómo Usarlo
 1. Clona este repositorio o descarga las capturas.
 2. Explora el Sheet interactivo para filtrar por región o categoría.
 
