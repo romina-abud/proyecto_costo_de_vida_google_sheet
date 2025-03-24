@@ -4,7 +4,7 @@
 Visualizar y comparar el costo de vida en diferentes regiones usando datos actualizados y fórmulas avanzadas.
 
 ## Capturas del Proyecto
-(dashboard_costo_vida.png)  
+Dashboard Costo de vida.png 
 *Descripción: Gráficos interactivos y tablas resumen.*
 
 ## Acceso al Google Sheet
