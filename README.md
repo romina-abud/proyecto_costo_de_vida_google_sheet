@@ -26,3 +26,6 @@ Visualizar y comparar el costo de vida en diferentes regiones usando datos actua
 
 ## Autora
 Romina Abud | LinkedIn: https://www.linkedin.com/in/romina-abud/
+
+## 📢 Publicación en LinkedIn
+[![LinkedIn](https://img.shields.io/badge/-Ver_Publicación_Completa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/romina-abud_datalabfeb25-anaerlisisdedatos-googlesheets-activity-7299527504921346048-yGTB?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtrkDwBTwBJqKovFA_IIMhuY90abn-mJig)
